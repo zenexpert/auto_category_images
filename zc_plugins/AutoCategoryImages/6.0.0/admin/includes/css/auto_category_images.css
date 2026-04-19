@@ -1,0 +1,25 @@
+.aci-messages {
+    background: #e9ecef;
+    border-left: 4px solid #17a2b8;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.aci-messages ul {
+    margin: 0;
+    padding-left: 20px;
+}
+.aci-messages li {
+    margin-bottom: 5px;
+}
+.aci-content {
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 20px;
+}
+.aci-content .process-btn {
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+}
